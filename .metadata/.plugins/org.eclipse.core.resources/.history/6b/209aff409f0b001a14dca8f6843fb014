@@ -1,0 +1,5 @@
+package com.roncatti.spring.domain;
+
+public class Categoria {
+
+}

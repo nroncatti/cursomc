@@ -1,0 +1,5 @@
+package com.roncatti.spring.resources;
+
+public class CategoriaResource {
+
+}
